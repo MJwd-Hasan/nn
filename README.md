@@ -25,7 +25,6 @@ Input A_0 = X
      Loss Evaluation: L(Y, A_L)
 
 
-```
 Loss L (from Y and A_L)
     │
     ▼
